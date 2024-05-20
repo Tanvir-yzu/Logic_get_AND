@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Programming/MODELSIM/project_1/project_1.srcs/sources_1/new/logi_get.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module logi_get
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Programming/MODELSIM/project_1/project_1.srcs/sim_1/new/stmul.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module logi_get_tb
